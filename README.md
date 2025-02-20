@@ -28,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
