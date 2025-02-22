@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Math
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
