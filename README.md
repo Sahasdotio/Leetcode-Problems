@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
