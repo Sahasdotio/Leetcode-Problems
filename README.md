@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
