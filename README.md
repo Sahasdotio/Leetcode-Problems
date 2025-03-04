@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
