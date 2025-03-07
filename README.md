@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
