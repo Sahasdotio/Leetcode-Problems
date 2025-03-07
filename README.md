@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 ## Trie
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -178,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
