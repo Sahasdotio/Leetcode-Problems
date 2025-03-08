@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3709-find-special-substring-of-length-k](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3709-find-special-substring-of-length-k) |
 ## Trie
 |  |
 | ------- |
