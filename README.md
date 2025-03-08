@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Trie
 |  |
 | ------- |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->
