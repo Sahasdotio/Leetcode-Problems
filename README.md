@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0043-multiply-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
