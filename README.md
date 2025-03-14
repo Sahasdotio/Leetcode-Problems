@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Queue
