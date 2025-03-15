@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -253,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
