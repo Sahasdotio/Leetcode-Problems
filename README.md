@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0461-hamming-distance](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0461-hamming-distance) |
 ## Simulation
 |  |
 | ------- |
