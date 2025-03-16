@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0459-repeated-substring-pattern](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
