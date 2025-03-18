@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3723-sum-of-good-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
+| [3763-separate-squares-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3763-separate-squares-i) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
+| [3763-separate-squares-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3763-separate-squares-i) |
 ## Queue
 |  |
 | ------- |
