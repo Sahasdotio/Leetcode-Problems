@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3483-alternating-groups-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3643-zero-array-transformation-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3723-sum-of-good-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
