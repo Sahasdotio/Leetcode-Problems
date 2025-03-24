@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [3430-count-days-without-meetings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
