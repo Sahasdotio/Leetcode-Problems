@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Tree
 |  |
 | ------- |
@@ -352,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
