@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3763-separate-squares-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3763-separate-squares-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Math
 |  |
