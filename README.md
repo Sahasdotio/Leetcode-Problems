@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2690-house-robber-iv](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3817-maximum-containers-on-a-ship) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -305,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2610-closest-prime-numbers-in-range) |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Interactive
 |  |
@@ -363,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 <!---LeetCode Topics End-->
