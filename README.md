@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3723-sum-of-good-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-separate-squares-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3763-separate-squares-i) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
