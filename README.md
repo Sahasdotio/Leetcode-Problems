@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3709-find-special-substring-of-length-k](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3709-find-special-substring-of-length-k) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Trie
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0169-majority-element) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 ## Linked List
 |  |
