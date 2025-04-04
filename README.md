@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0263-ugly-number) |
+| [1289-day-of-the-week](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1289-day-of-the-week) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
