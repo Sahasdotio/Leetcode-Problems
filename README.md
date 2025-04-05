@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
