@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3709-find-special-substring-of-length-k](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3709-find-special-substring-of-length-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2649-count-total-number-of-colored-cells](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2649-count-total-number-of-colored-cells) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3817-maximum-containers-on-a-ship) |
 ## Recursion
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
