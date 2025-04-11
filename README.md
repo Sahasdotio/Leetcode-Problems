@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3429-special-array-i) |
