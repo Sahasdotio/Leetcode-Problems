@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [0890-lemonade-change](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [2681-put-marbles-in-bags](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
