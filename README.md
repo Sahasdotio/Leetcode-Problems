@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0941-sort-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0768-partition-labels) |
+| [0941-sort-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0941-sort-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
 | [1217-relative-sort-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
