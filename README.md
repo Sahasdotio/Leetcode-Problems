@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1289-day-of-the-week) |
+| [1500-count-largest-group](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
