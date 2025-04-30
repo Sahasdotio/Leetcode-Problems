@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0459-repeated-substring-pattern](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
