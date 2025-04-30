@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1289-day-of-the-week) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
