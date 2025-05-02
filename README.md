@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Sliding Window
 |  |
 | ------- |
