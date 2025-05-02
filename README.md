@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
