@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1217-relative-sort-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
