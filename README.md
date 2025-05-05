@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
