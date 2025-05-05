@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0792-binary-search](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
+| [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
@@ -554,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Union Find
 |  |
 | ------- |
+| [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
