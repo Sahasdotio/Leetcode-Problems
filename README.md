@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0680-valid-palindrome-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0768-partition-labels) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0263-ugly-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0043-multiply-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
