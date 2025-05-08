@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0072-edit-distance) |
