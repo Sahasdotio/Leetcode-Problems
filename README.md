@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0409-longest-palindrome) |
 | [0768-partition-labels](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0768-partition-labels) |
