@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0904-leaf-similar-trees](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0904-leaf-similar-trees](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
