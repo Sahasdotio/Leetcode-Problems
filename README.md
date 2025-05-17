@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Tree
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0342-power-of-four](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0461-hamming-distance) |
