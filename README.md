@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3321-type-of-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3429-special-array-i) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3321-type-of-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2888-minimum-index-of-a-valid-split](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3321-type-of-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
