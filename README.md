@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Graph
