@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3468-find-the-encrypted-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3468-find-the-encrypted-string) |
