@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1217-relative-sort-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1217-relative-sort-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
+| [0945-snakes-and-ladders](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
