@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0386-lexicographical-numbers) |
 | [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0904-leaf-similar-trees](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0904-leaf-similar-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
