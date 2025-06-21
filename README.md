@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3194-find-words-containing-character](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3468-find-the-encrypted-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3468-find-the-encrypted-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2915-count-of-interesting-subarrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2915-count-of-interesting-subarrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
