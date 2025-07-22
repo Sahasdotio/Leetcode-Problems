@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1656-count-good-triplets) |
+| [1813-maximum-erasure-value](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1500-count-largest-group) |
+| [1813-maximum-erasure-value](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2215-finding-3-digit-even-numbers) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1813-maximum-erasure-value](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2478-longest-nice-subarray) |
