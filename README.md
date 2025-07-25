@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0768-partition-labels](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3001-apply-operations-to-maximize-score) |
