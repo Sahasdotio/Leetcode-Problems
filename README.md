@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -794,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Enumeration
 |  |
@@ -808,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
