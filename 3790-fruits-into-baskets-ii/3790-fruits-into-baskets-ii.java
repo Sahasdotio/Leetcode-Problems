@@ -1,16 +1,18 @@
-class Solution {
-    public int numOfUnplacedFruits(int[] f, int[] b) {
-        int ans = 0;
 
-        for(int i = 0; i < f.length; i++) {
-            for(int j = 0; j < b.length; j++) {
-                if(f[i] <= b[j]){
-                    b[j] = 0;
-                    ans++;
+class Solution {
+    public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
+        int count=0;
+        
+        for (int i=0;i<fruits.length;i++){
+            for (int j=0;j<baskets.length;j++){
+                if (fruits[i]<=baskets[j]){
+                    count++;
+          
+                    baskets[j]=0;
                     break;
                 }
             }
         }
-        return f.length - ans;
+        return fruits.length-count;
     }
 }
