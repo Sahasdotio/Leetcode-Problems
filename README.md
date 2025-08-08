@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1279-prime-arrangements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1279-prime-arrangements) |
 | [1289-day-of-the-week](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1289-day-of-the-week) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0368-largest-divisible-subset](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -886,4 +888,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
