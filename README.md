@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [2050-count-good-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2050-count-good-numbers) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0342-power-of-four) |
