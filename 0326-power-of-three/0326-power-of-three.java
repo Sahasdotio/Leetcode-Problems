@@ -1,8 +1,9 @@
 class Solution {
-    public boolean isPowerOfN(int n, int base) {
-        return Integer.toString(n, base).matches("10*");
-    }
     public boolean isPowerOfThree(int n) {
-        return isPowerOfN(n, 3);
+        if (n < 1) return false;
+       while (n % 3 == 0) {
+            n /= 3;
+        }
+      return n==1;      
     }
 }
