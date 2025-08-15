@@ -1,15 +1,10 @@
-public class Solution {
+class Solution {
     public boolean isPowerOfFour(int n) {
-        for (int i = 0; i <= 15; i++) {
-            int powerOfFour = (int) Math.pow(4, i);
-            
-            if (powerOfFour == n)
-                return true;
-            
-            if (powerOfFour > n)
-                return false;
+        if (n < 1 || (n & (n-1)) != 0) return false; // must have only one bit
+        while (n > 0) {
+            if ((n & 1) == 1) return true;
+            n >>= 2;
         }
-        
         return false;
     }
 }
