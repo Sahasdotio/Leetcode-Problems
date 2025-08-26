@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0498-diagonal-traverse](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0067-add-binary](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0048-rotate-image](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0498-diagonal-traverse) |
 | [0661-image-smoother](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0854-making-a-large-island](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0945-snakes-and-ladders) |
