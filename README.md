@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3723-sum-of-good-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3763-separate-squares-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3763-separate-squares-i) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -619,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3637-count-number-of-balanced-permutations](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Sorting
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Indexed Tree
 |  |
 | ------- |
