@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3817-maximum-containers-on-a-ship) |
+| [3830-find-closest-person](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
 | ------- |
