@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Trie
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3771-select-k-disjoint-special-substrings](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3799-unique-3-digit-even-numbers) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -853,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3778-transform-array-by-parity](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3778-transform-array-by-parity) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Linked List
 |  |
 | ------- |
