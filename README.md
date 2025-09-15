@@ -977,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/0577-employee-bonus) |
 | [1415-students-and-examinations](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Sahasdotio/Leetcode-Problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
